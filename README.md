@@ -14,8 +14,7 @@ dialog on the Setup menu of the application.
 <URL>
 
 If you wish to manually install the system, you must clone or extract it into the ``Data/modules/`` folder. You
-may do this by cloning the repository or downloading a zip archive from the
-[Releases Page](<URL>).
+may do this by cloning the repository or downloading a zip archive from my github page.
 
 ## This is a Work in Progress
 
