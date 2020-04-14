@@ -2,7 +2,7 @@
 
 An implementation of the Dungeons & Dragons 5th Edition Racial Traits and Features from the Systems Reference Document (SRD) intended for use with FoundryVTT (https://foundryvtt.com/). 
 
-This module is distributed under the Open Gaming License v1.0a.
+This module is distributed under the GPL v3.0 and contains content permitted for use under the Open Gaming License v1.0a.
 The [Systems Reference Document (SRD)](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf) for included
 content is available in full from Wizards of the Coast.
 
