@@ -1,0 +1,18 @@
+{
+  "name": "racial-features-srd",
+  "title": "Racial Features (SRD) Compendium",
+  "description": "A portable compendium containing entries for each racial trait in the D&D 5E SRD. For use with the D&D5E system on the FoundryVTT",
+  "author": "Sataris",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.5.3",
+  "requiredCoreVersion": "0.5.3",
+  "packs": [
+  		{
+  			"name": "racial-features-srd",
+  			"label": "Racial Feature (SRD)",
+  			"path": "packs/racial-features-srd.db",
+  			"entity": "Item",
+  			"module": "racial-features-srd",
+  		}
+  ]
+}
