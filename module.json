@@ -9,10 +9,10 @@
   "packs": [
   		{
   			"name": "racial-features-srd",
-  			"label": "Racial Feature (SRD)",
+  			"label": "Racial Features (SRD)",
   			"path": "packs/racial-features-srd.db",
   			"entity": "Item",
-  			"module": "racial-features-srd",
+  			"module": "racial-features-srd"
   		}
   ]
 }
