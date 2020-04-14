@@ -1,6 +1,6 @@
 # Racial Features (SRD) compendium
 
-An implementation of the Dungeons & Dragons 5th Edition Racial Traits and Features from the Systems Reference Document (SRD). 
+An implementation of the Dungeons & Dragons 5th Edition Racial Traits and Features from the Systems Reference Document (SRD) intended for use with FoundryVTT (https://foundryvtt.com/). 
 
 This module is distributed under the Open Gaming License v1.0a.
 The [Systems Reference Document (SRD)](http://media.wizards.com/2016/downloads/DND/SRD-OGL_V5.1.pdf) for included
