@@ -11,10 +11,12 @@ content is available in full from Wizards of the Coast.
 To install the D&D5E system for Foundry Virtual Tabletop, simply paste the following URL into the **Install System**
 dialog on the Setup menu of the application.
 
-<URL>
+https://github.com/jsataris/racial-features-srd/blob/master/modules.json
 
 If you wish to manually install the system, you must clone or extract it into the ``Data/modules/`` folder. You
-may do this by cloning the repository or downloading a zip archive from my github page.
+may do this by cloning the repository or downloading a zip archive from my github page. 
+
+https://codeload.github.com/jsataris/racial-features-srd/zip/master
 
 ## This is a Work in Progress
 
