@@ -16,7 +16,7 @@
   		},
       {
         "name": "races-srd",
-        "label": "Races (SRD)"
+        "label": "Races (SRD)",
         "path": "packs/races-srd.db",
         "entity": "Actor",
         "module": "racial-features-srd"
