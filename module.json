@@ -13,7 +13,7 @@
   			"path": "packs/racial-features-srd.db",
   			"entity": "Item",
   			"module": "racial-features-srd"
-  		}
+  		},
       {
         "name": "races-srd",
         "label": "Races (SRD)"
