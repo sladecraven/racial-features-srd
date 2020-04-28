@@ -4,8 +4,8 @@
   "description": "A portable compendium containing entries for each racial trait in the D&D 5E SRD. For use with the D&D5E system on the FoundryVTT",
   "author": "Sataris",
   "version": "0.2.0",
-  "minimumCoreVersion": "0.5.3",
-  "requiredCoreVersion": "0.5.3",
+  "minimumCoreVersion": "0.5.5",
+  "requiredCoreVersion": "0.5.5",
   "packs": [
   		{
   			"name": "racial-features-srd",
@@ -21,5 +21,7 @@
         "entity": "Actor",
         "module": "racial-features-srd"
       }
-  ]
+  ],
+  "manifest": "https://github.com/sladecraven/racial-features-srd/raw/master/module.json",   
+  "download": "https://github.com/sladecraven/racial-features-srd/"   
 }
